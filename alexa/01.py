@@ -76,7 +76,7 @@ if __name__ =='__main__':
     
 
         elif 'who creates you' in query:
-            speak("Tejas created me")
+            speak("Nilay created me")
 
         #elif "advice" in query:
             #speak("Here's an advice for you, mam")
